@@ -1,2 +1,2 @@
 # Minor-Project
-This repo contains work done till now for college minor project.
+This repository contains work done till now for college minor project.
